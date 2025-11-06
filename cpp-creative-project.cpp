@@ -36,7 +36,7 @@ int main() {
 }
 
 void gameIntro() {
-    cout << "Welcome to Dragon Dungeon!\n";
+    cout << "Welcome to Dungeon and Dragons!\n";
     cout << "You will face zombies and a horific dragon that might eat you.\n";
     cout << "Make smart choices to survive.\n\n";
 }
